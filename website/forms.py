@@ -11,5 +11,3 @@ class PedidoForm(forms.ModelForm):
             'cartao',
             'pagamento',
         ]
-
-
